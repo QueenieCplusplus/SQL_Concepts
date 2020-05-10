@@ -41,7 +41,13 @@ SQL 目的是最資料庫進行存取，基本 SQL 命令中是不包含控制�
 
 * View 檢視表 = Table 資料表
 
+# 特殊符號
 
+[]square brackets, 方括號
+
+"" doublequote, 雙引號
+
+‘’ backquote, 反單引號
 
 
 
