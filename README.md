@@ -25,9 +25,9 @@ SQL 是 structured Query Language，結構化查詢語言，當某個要詢問�
 
 * Table （資料表）
 
-* Tuple 列 （值組）
+* Tuple （值組）= row 列
 
-* Attribut 行 （屬性）
+* Attribut （屬性）= column 行 
 
 
 
