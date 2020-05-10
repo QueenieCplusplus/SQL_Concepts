@@ -35,6 +35,8 @@ SQL 是 structured Query Language，結構化查詢語言，當某個要詢問�
 
 資料庫語言
 
+由命令、運算子、函式形成的陳述式所構成。
+
 
 
 
