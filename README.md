@@ -35,11 +35,17 @@ SQL 是 structured Query Language，結構化查詢語言，當某個要詢問�
 
 決定行與列以後，可以指定單一『儲存格 (cell)』 在儲存格中寫入值後，可進行儲存，儲存的值取決於其中定義的資料型別。
 
-* Primary Key 主鍵
+* Primary Key 主鍵 (自動生成索引)
+
+因於索引的關係，資料搜尋效率會提升，另外，因為外部索引鍵整合性的限制 Foreign Key Constraints，必須設定主鍵。
 
 可以在資料表中指定 1 個或 1 個以上的 column 行作為主 key，且不可為 NULL，這些值在資料表中都設定為獨一無二。
 
 倘若資料無法避免重複性的話，可以設定編號 ID 為主鍵。
+
+指定主鍵的方式：
+
+CREATE TABLE 或是 ALTER TABLE 
 
 
 # 資料庫語言
@@ -82,13 +88,4 @@ SQL 目的是最資料庫進行存取，基本 SQL 命令中是不包含控制�
 "" doublequote, 雙引號
 
 ‘’ backquote, 反單引號
-
-
-
-
-
-
-
-
-
 
