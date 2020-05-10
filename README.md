@@ -46,6 +46,18 @@ SQL 目的是最資料庫進行存取，基本 SQL 命令中是不包含控制�
 
 * View 檢視表 = Table 資料表
 
+* Index 索引
+
+* Procedure 程序
+
+* Function 函式
+
+* Synonym 別名
+
+* Trigger
+
+* Sequence
+
 # 特殊符號
 
 倘若使用保留字命名物件時，要使用特殊符號。
