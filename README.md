@@ -8,7 +8,11 @@ SQL 是 structured Query Language，結構化查詢語言，當某個要詢問�
 
 傳統資料庫有各種形式：
 
-* Tree
+* Tree:
+
+  例如 XML format (HTML format) 使用文字資料及用 tag 標籤來做網路上交換資料與紀錄的傳輸格式方式，依循 xml 的資料稱為 XML instance。
+  
+  尋找其中特定元素，則使用 XPath 階層的軌跡，有自己的 FLOWOR 和 XQuery 語言處理 xml 實體。
 
 * Card
 
