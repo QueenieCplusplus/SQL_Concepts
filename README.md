@@ -1,4 +1,8 @@
 # SQL Concepts
+
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
 資料庫概念
 
 SQL 是 structured Query Language，結構化查詢語言，當某個要詢問的問題 = 以 SQL 寫成的命令，像某處 = 向資料庫，用通訊方式傳輸 = 透過 TCP/IP 網路傳輸。
@@ -10,6 +14,8 @@ SQL 是 structured Query Language，結構化查詢語言，當某個要詢問�
 * Card
 
 * Object
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 關聯性資料庫
 
@@ -24,6 +30,10 @@ SQL 是 structured Query Language，結構化查詢語言，當某個要詢問�
 * Tuple 列 （值組）
 
 * Attribut 行 （屬性）
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+資料庫語言
 
 
 
