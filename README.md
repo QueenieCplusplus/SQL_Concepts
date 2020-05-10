@@ -47,6 +47,8 @@ SQL 是 structured Query Language，結構化查詢語言，當某個要詢問�
 
 CREATE TABLE 或是 ALTER TABLE 
 
+* Foreign Key 外來鍵 (外部參照-整合制約)
+
 
 # 資料庫語言
 
