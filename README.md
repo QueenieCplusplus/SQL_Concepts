@@ -96,3 +96,11 @@ SQL 目的是最資料庫進行存取，基本 SQL 命令中是不包含控制�
 * LOB, Large Object 
 
 * Image
+
+# MySQL 特有資料型別
+
+* ENUM
+
+* SET
+# MySQL 特有資ㄌㄧㄠ
+
