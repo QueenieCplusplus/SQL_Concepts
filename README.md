@@ -91,3 +91,8 @@ SQL 目的是最資料庫進行存取，基本 SQL 命令中是不包含控制�
 
 ‘’ backquote, 反單引號
 
+# 大型資料型別
+
+* LOB, Large Object 
+
+* Image
