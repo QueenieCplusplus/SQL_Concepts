@@ -43,7 +43,9 @@ SQL 目的是最資料庫進行存取，基本 SQL 命令中是不包含控制�
 
 # 特殊符號
 
-[]square brackets, 方括號
+倘若使用保留字命名物件時，要使用特殊符號。
+
+[] square brackets, 方括號
 
 "" doublequote, 雙引號
 
