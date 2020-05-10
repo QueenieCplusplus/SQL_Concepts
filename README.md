@@ -79,17 +79,17 @@ SQL 目的是最資料庫進行存取，基本 SQL 命令中是不包含控制�
 
 # 特殊符號和常用符號
 
-'' singlequote, 單引號
+* '' singlequote, 單引號
 
 此符號用來包住 '字串'、'間隔常數'、'日期時間'...等常數。
 
 倘若使用保留字命名物件時，要使用特殊符號。
 
-[] square brackets, 方括號
+* [] square brackets, 方括號
 
-"" doublequote, 雙引號
+* "" doublequote, 雙引號
 
-‘’ backquote, 反單引號
+* ‘’ backquote, 反單引號
 
 # 大型資料型別
 
